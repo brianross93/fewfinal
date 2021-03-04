@@ -1,0 +1,12 @@
+.Band {
+    
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 5px;
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+   
+    
+    
+  }
